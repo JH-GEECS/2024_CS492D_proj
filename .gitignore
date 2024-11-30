@@ -192,3 +192,5 @@ pyrightconfig.json
 
 # End of https://www.toptal.com/developers/gitignore/api/python
 data
+train/dataset_v2/
+train/generated_images/
